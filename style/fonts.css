@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Sedan-r';
+  src: url(../assets/fonts/Sedan-Regular.ttf);
+  font-size: 16px;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Sedan-i';
+  src: url(../assets/fonts/Sedan-Italic.ttf);
+  font-size: 16px;
+  font-weight: 400;
+}
